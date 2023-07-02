@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tushar_iosdev" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_iosdev?logo=twitter&style=for-the-badge" alt="tushar_iosdev" /></a> </p>
 
-- 🔭 I’m currently working on [Twitter Clone](https://github.com/tusharPatilDev/iOSTwitterClone)
+- 🔭 I’m currently working on [Spotify Clone](https://github.com/tusharPatilDev/SpotifyApp)
 
 - 🌱 I’m currently learning **Core Animations**
 
